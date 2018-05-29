@@ -1,0 +1,15 @@
+CMakeLists.txt
+.*
+*~
+*cbp
+*layout
+*xml
+*depend
+*.[oa]
+*.so
+main.cpp
+*testdata
+obj/
+!.gitignore
+cmake-build-debug/
+bin/
